@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0c7f5817f0467cda","type":"group","x":-500,"y":-560,"width":440,"height":800,"label":"CLEAN ARCHITECTURE"},
+		{"id":"74b55c64c504e62b","type":"file","file":"Presentation.md","x":-447,"y":-520,"width":334,"height":138,"color":"4"},
+		{"id":"d1d57939b859b342","type":"file","file":"Application.md","x":-447,"y":-350,"width":334,"height":160,"color":"6"},
+		{"id":"d5ca5bff3b894d81","type":"file","file":"Domain.md","x":-447,"y":-150,"width":334,"height":150,"color":"1"},
+		{"id":"01b0009601f54a51","type":"file","file":"Infrastructure.md","x":-447,"y":50,"width":334,"height":170,"color":"3"}
+	],
+	"edges":[
+		{"id":"26f930a5c3dfc45e","fromNode":"74b55c64c504e62b","fromSide":"bottom","toNode":"d1d57939b859b342","toSide":"top"},
+		{"id":"769f75bd5a0664cc","fromNode":"d1d57939b859b342","fromSide":"bottom","toNode":"d5ca5bff3b894d81","toSide":"top"},
+		{"id":"979a750c4b5f3aff","fromNode":"01b0009601f54a51","fromSide":"top","toNode":"d5ca5bff3b894d81","toSide":"bottom"}
+	]
+}

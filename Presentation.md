@@ -1,0 +1,1 @@
+A camada Presentation da [[Clean Architecture]] é responsável pela visualização da aplicação, ela pode ser uma [[Console Application]], [[API]], [[Web Applications]] (MVC), ou até mesmo um framework dedicado como Angular, Vue ou React.
