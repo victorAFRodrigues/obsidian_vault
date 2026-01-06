@@ -11,23 +11,6 @@
             "id": "6416ef9c52020a65",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Diagrama Clean Architecture.canvas",
-                "viewState": {
-                  "x": -280,
-                  "y": -160,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Diagrama Clean Architecture"
-            }
-          },
-          {
-            "id": "1518988630494d7b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Domain.md",
@@ -38,8 +21,7 @@
               "title": "Domain"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new link.canvas",
+                "file": "Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for new link"
+              "title": "Backlinks for Domain"
             }
           },
           {
@@ -187,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,16 +183,16 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "1518988630494d7b",
+  "active": "6416ef9c52020a65",
   "lastOpenFiles": [
+    "Diagrama Clean Architecture.canvas",
+    "Domain.md",
     "Presentation.md",
     "Application.md",
-    "Diagrama Clean Architecture.canvas",
     "Clean Architecture.md",
     "Diagrama clean arch.md",
     "Untitled.md",
     "Infrastructure.md",
-    "Domain.md",
     "new link.canvas",
     "Clean Architeture",
     "Welcome.md",

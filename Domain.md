@@ -1,0 +1,1 @@
+domain é como a camada core, aqui deve conter camadas xyz
